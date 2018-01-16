@@ -1,0 +1,27 @@
+{
+  "name": "node-cielo-api",
+  "version": "1.0.0-beta",
+  "description": "API desenvolvida para Pricefit",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.11",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API",
+    "MultiAPI",
+    "Pricefit",
+    "Cielo",
+    "Price",
+    "Fit"
+  ],
+  "author": "Kilmmer Kielblock",
+  "license": "ISC"
+}
